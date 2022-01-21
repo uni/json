@@ -1,14 +1,14 @@
 [
   {
     "textLabel": "English",
-    "translationUrl": "assets/json/i18n/english.json"
+    "translationUrl": "https://uni.github.io/json/i18n/english.json"
   },
   {
     "textLabel": "Española",
-    "translationUrl": "https://uni.github.io/loc/spanish.json"
+    "translationUrl": "https://uni.github.io/json/i18n/spanish.json"
   },
   {
     "textLabel": "Русский",
-    "translationUrl": "assets/json/i18n/russian.json"
+    "translationUrl": "https://uni.github.io/json/i18n/russian.json"
   }
 ]

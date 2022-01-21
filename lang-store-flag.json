@@ -1,0 +1,17 @@
+[
+  {
+    "flag": "gb",
+    "textLabel": "English",
+    "translationUrl": "assets/json/i18n/english.json"
+  },
+  {
+    "flag": "es",
+    "textLabel": "Española",
+    "translationUrl": "https://uni.github.io/loc/spanish.json"
+  },
+  {
+    "flag": "ru",
+    "textLabel": "Русский",
+    "translationUrl": "assets/json/i18n/russian.json"
+  }
+]

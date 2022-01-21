@@ -1,0 +1,20 @@
+[
+  {
+    "route": "lang=en",
+    "flag": "gb",
+    "textLabel": "English",
+    "translationUrl": "assets/json/i18n/english.json"
+  },
+  {
+    "route": "lang=es",
+    "flag": "es",
+    "textLabel": "Española",
+    "translationUrl": "https://uni.github.io/loc/spanish.json"
+  },
+  {
+    "route": "lang=ru",
+    "flag": "ru",
+    "textLabel": "Русский",
+    "translationUrl": "assets/json/i18n/russian.json"
+  }
+]

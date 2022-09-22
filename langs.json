@@ -8,10 +8,5 @@
     "lang": "es",
     "name": "Española",
     "translation": "https://uni.github.io/json/i18n/spanish.json"
-  },
-  {
-    "lang": "ru",
-    "name": "Русский",
-    "translation": "https://uni.github.io/json/i18n/russian.json"
   }
 ]

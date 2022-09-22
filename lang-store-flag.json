@@ -8,10 +8,5 @@
     "flag": "es",
     "textLabel": "Española",
     "translationUrl": "https://uni.github.io/json/i18n/spanish.json"
-  },
-  {
-    "flag": "ru",
-    "textLabel": "Русский",
-    "translationUrl": "https://uni.github.io/json/i18n/russian.json"
   }
 ]

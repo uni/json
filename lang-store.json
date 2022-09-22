@@ -6,9 +6,5 @@
   {
     "textLabel": "Española",
     "translationUrl": "https://uni.github.io/json/i18n/spanish.json"
-  },
-  {
-    "textLabel": "Русский",
-    "translationUrl": "https://uni.github.io/json/i18n/russian.json"
   }
 ]

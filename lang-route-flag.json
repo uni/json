@@ -10,11 +10,5 @@
     "flag": "es",
     "textLabel": "Española",
     "translationUrl": "https://uni.github.io/json/i18n/spanish.json"
-  },
-  {
-    "route": "lang=ru",
-    "flag": "ru",
-    "textLabel": "Русский",
-    "translationUrl": "https://uni.github.io/json/i18n/russian.json"
   }
 ]
